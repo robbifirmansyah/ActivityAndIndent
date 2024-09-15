@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ActivityAndIndent</string>
+    <string name="register">Register</string>
+    <string name="username">username</string>
+    <string name="by_checking_the_box_you_agree_to_our">By checking the box you agree to our </string>
+    <string name="terms">Terms </string>
+    <string name="and"> and </string>
+    <string name="conditions"> Conditions.</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="new_member">New member?</string>
+    <string name="login">Login</string>
+    <string name="homepage">Homepage</string>
+    <string name="welcome">Welcome</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">Forget Password?</string>
+</resources>
